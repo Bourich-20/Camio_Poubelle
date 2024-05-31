@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698063590477",
+    "project_id": "camionpoubelle-30842",
+    "storage_bucket": "camionpoubelle-30842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698063590477:android:98603e870aed1e8486b804",
+        "android_client_info": {
+          "package_name": "com.example.camion_poubelle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtXN4k4KgUIYshkhAeEMwhDshirfScvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
